@@ -1,0 +1,4 @@
+{
+  "connectionString": "mongodb://localhost:27017/3plvalley_db",
+  "secret": "LkhZp2hjzFvG6POfw4qdfQClJ2mvVplkDps2/pxFfBQ="
+}
